@@ -2,3 +2,9 @@
     font-family: "Eras";
     src: url("assets/fonts/eras.ttf");
 }
+
+html {
+    background: url("assets/images/background.png");
+    min-width: 1280;
+    background-repeat: no-repeat;
+}
